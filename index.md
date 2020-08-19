@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-cn">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>
-        网站更新中
-    </h1>
-    <p>
-        可访问<a href="https://setdy.github.io"></a>
-    </p>
-</body>
-</html>
+# 2021见！
+***
+我们的网站正在更新中，如您需要访问博客请前往
+<https://setdy.github.io>
